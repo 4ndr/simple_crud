@@ -1,2 +1,3 @@
 # simple_crud
-An application using django and vuejs
+An simple crud application using django and vuejs
+
